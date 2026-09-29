@@ -1,0 +1,33 @@
+# Local OCR runtimes and models (reproducible; do not commit)
+.vendor/
+jpn.traineddata
+data/tessdata-best/
+data/paddle-cache/
+data/cloud-ocr/
+
+# Downloaded dictionary reference and generated image crops
+data/JMdict_e.gz
+data/jmdict-eng.json.zip
+data/jmdict-eng/
+data/rows/
+
+# Diagnostic OCR from the superseded whole-page attempt
+data/ocr/
+data/ocr-hires/
+data/ocr-columns/
+data/vocab-draft.json
+data/page-candidates.json
+data/*-debug.png
+
+# App builds, installed packages, local configuration, and temporary work
+.next/
+node_modules/
+tmp/
+.env
+.env.*
+!.env.example
+
+# Keep the one finalized runtime dataset used by the website. The remaining
+# OCR scans, intermediate exports, and dictionary sources are local-only.
+/data/*
+!/data/vocab-final-study.json

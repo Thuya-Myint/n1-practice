@@ -1,0 +1,5 @@
+import fs from 'node:fs/promises';
+const newer=JSON.parse(await fs.readFile('data/vocab-final.json','utf8')), older=JSON.parse(await fs.readFile('data/vocab-polished.json','utf8'));
+const oldBy=new Map(older.records.map(r=>[r.id,r]));
+const records=newer.records.map(r=>{const o=oldBy.get(r.id);if(r.status==='verified')return r;if(o?.status==='verified')return {...o,evidence:{...o.evidence,sourceMethod:'Google Vision original photo; retained because PDF pass was conservative'}};return r});
+const summary=records.reduce((a,r)=>(a[r.status]=(a[r.status]||0)+1,a),{});const out={schemaVersion:6,source:{title:'JLPT N1 この一冊で合格する',sources:['four scanned PDFs','original 83 photos'],receivedPages:83,officialTargetCount:4045,printedRows:records.length},validation:{dictionary:'JMdict simplified 3.6.2',summary},records};await fs.writeFile('data/vocab-final-merged.json',JSON.stringify(out,null,2)+'\n');await fs.writeFile('data/vocab-final-review.json',JSON.stringify({records:records.filter(r=>r.status!=='verified')},null,2)+'\n');console.log(JSON.stringify({total:records.length,...summary},null,2));

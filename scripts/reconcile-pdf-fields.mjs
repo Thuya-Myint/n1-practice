@@ -1,0 +1,16 @@
+import fs from 'node:fs/promises';
+const manifest = JSON.parse(await fs.readFile('data/row-manifest-pdf.json', 'utf8'));
+const fields = JSON.parse(await fs.readFile('data/recognition-pdf-fields.json', 'utf8'));
+const dictionary = JSON.parse(await fs.readFile('data/jmdict-eng/jmdict-eng-3.6.2.json', 'utf8'));
+const normal = (v = '') => v.normalize('NFKC').replace(/[\s、。・,\.（）()\[\]【】]/g, '');
+const hira = (v = '') => normal(v).replace(/[ァ-ヶ]/g, c => String.fromCharCode(c.charCodeAt(0) - 0x60));
+const kana = (v = '') => hira(v).match(/[ぁ-んー]+/g)?.join('') || '';
+const kanji = (v = '') => normal(v).match(/^[々〆ヶ一-龯]+/)?.[0] || '';
+function dist(a,b){const p=Array.from({length:b.length+1},(_,i)=>i);for(let i=1;i<=a.length;i++){const c=[i];for(let j=1;j<=b.length;j++)c[j]=Math.min(p[j]+1,c[j-1]+1,p[j-1]+(a[i-1]===b[j-1]?0:1));for(let j=0;j<=b.length;j++)p[j]=c[j]}return p[b.length]}
+const sim=(a,b)=>!a||!b?0:1-dist(a,b)/Math.max(a.length,b.length);
+const bySurface=new Map();
+for(const w of dictionary.words){const ss=w.kanji.length?w.kanji.map(x=>x.text):w.kana.map(x=>x.text);for(const s of ss){const a=bySurface.get(normal(s))||[];for(const k of w.kana)a.push({surface:s,reading:k.text,dictionaryId:w.id});bySurface.set(normal(s),a)}}
+const out=[];
+for(const row of manifest.records){const o=fields.records[row.id]||{};const observedWord=kanji(o.word?.text||'');const observedRead=kana(o.reading?.text||'');let cand=bySurface.get(normal(observedWord))||[];let matchedBy='exact-surface';if(!cand.length&&observedWord){cand=[];for(const [s,items] of bySurface)if(s[0]===observedWord[0]&&Math.abs(s.length-observedWord.length)<=1)for(const x of items)cand.push({...x,surfaceSimilarity:sim(s,observedWord)});cand.sort((a,b)=>(b.surfaceSimilarity||0)-(a.surfaceSimilarity||0));cand=cand.slice(0,20);matchedBy='fuzzy-surface'}
+  const ranked=cand.map(c=>({...c,surfaceSimilarity:c.surfaceSimilarity??1,readingSimilarity:sim(hira(c.reading),observedRead)})).sort((a,b)=>(b.surfaceSimilarity*.7+b.readingSimilarity*.3)-(a.surfaceSimilarity*.7+a.readingSimilarity*.3));const best=ranked[0];const exact=!!best&&best.surfaceSimilarity===1;const verified=!!best&&exact&&best.readingSimilarity>=.3;const proposed=!!best&&best.surfaceSimilarity>=.7;out.push({id:row.id,day:row.day,printedNumber:row.printedNumber,status:verified?'verified':proposed?'proposed':'needsReview',kanjiOrExpression:verified?best.surface:null,reading:verified?best.reading:null,candidate:best?{kanjiOrExpression:best.surface,reading:best.reading,dictionaryId:best.dictionaryId,matchedBy,surfaceSimilarity:Number(best.surfaceSimilarity.toFixed(3)),readingSimilarity:Number(best.readingSimilarity.toFixed(3))}:null,evidence:{pdfOcr:{word:o.word||null,reading:o.reading||null},source:row.source,crops:row.crops}})}
+const summary=out.reduce((a,r)=>(a[r.status]=(a[r.status]||0)+1,a),{});const result={schemaVersion:4,source:{title:'JLPT N1 この一冊で合格する',source:'four scanned PDFs',receivedPages:83,officialTargetCount:4045,printedRows:out.length},validation:{dictionary:'JMdict simplified 3.6.2',summary},records:out};await fs.writeFile('data/vocab-final.json',JSON.stringify(result,null,2)+'\n');await fs.writeFile('data/vocab-final-review.json',JSON.stringify({records:out.filter(r=>r.status!=='verified')},null,2)+'\n');console.log(JSON.stringify({total:out.length,...summary},null,2));
