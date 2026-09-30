@@ -40,12 +40,12 @@
         {
           "ja": "景気の悪化が続けば、企業の業績にも影響が出る。",
           "en": "If the economic downturn continues, it will also affect companies' performance.",
-          "furigana": "<ruby>景気<rp>(</rp><rt>けいき</rt><rp>)</rp></ruby>の<ruby>悪化<rp>(</rp><rt>あっか</rt><rp>)</rp></ruby>が<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けば、<ruby>企業<rp>(</rp><rt>きぎょう</rt><rp>)</rp></ruby>の<ruby>業績<rp>(</rp><rt>ぎょうせき</rt><rp>)</rp></ruby>にも<ruby>影響<rp>(</rp><rt>えいきょう</rt><rp>)</rp></ruby>が<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>る。"
+          "furigana": "景気の<ruby>悪化<rp>(</rp><rt>あっか</rt><rp>)</rp></ruby>が続けば、企業の業績にも影響が出る。"
         },
         {
           "ja": "症状の悪化を防ぐため、医師の指示に従ってください。",
           "en": "Please follow the doctor's instructions to prevent the symptoms from worsening.",
-          "furigana": "<ruby>症状<rp>(</rp><rt>しょうじょう</rt><rp>)</rp></ruby>の<ruby>悪化<rp>(</rp><rt>あっか</rt><rp>)</rp></ruby>を<ruby>防<rp>(</rp><rt>ふせ</rt><rp>)</rp></ruby>ぐため、<ruby>医師<rp>(</rp><rt>いし</rt><rp>)</rp></ruby>の<ruby>指示<rp>(</rp><rt>しじ</rt><rp>)</rp></ruby>に<ruby>従<rp>(</rp><rt>したが</rt><rp>)</rp></ruby>ってください。"
+          "furigana": "症状の<ruby>悪化<rp>(</rp><rt>あっか</rt><rp>)</rp></ruby>を防ぐため、医師の指示に従ってください。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -81,14 +81,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "この薬に依存すると、やめるのが難しくなることがある。",
-          "en": "If you become dependent on this medicine, it may be difficult to stop taking it.",
-          "furigana": "この<ruby>薬<rp>(</rp><rt>くすり</rt><rp>)</rp></ruby>に<ruby>依存<rp>(</rp><rt>いぞん</rt><rp>)</rp></ruby>すると、やめるのが<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しくなることがある。"
+          "ja": "スマートフォンに依存しすぎないよう、使う時間を決めている。",
+          "en": "I set limits on my smartphone use so I do not become too dependent on it.",
+          "furigana": "スマートフォンに<ruby>依存<rp>(</rp><rt>いぞん</rt><rp>)</rp></ruby>しすぎないよう、使う時間を決めている。"
         },
         {
-          "ja": "多くの企業が海外市場に依存している。",
-          "en": "Many companies depend on overseas markets.",
-          "furigana": "<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>くの<ruby>企業<rp>(</rp><rt>きぎょう</rt><rp>)</rp></ruby>が<ruby>海外<rp>(</rp><rt>かいがい</rt><rp>)</rp></ruby><ruby>市場<rp>(</rp><rt>しじょう</rt><rp>)</rp></ruby>に<ruby>依存<rp>(</rp><rt>いぞん</rt><rp>)</rp></ruby>している。"
+          "ja": "この地域の産業は観光に大きく依存している。",
+          "en": "Industry in this region depends heavily on tourism.",
+          "furigana": "この地域の産業は観光に大きく<ruby>依存<rp>(</rp><rt>いぞん</rt><rp>)</rp></ruby>している。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -125,14 +125,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "相手の意向を確認してから、計画を進めることにした。",
-          "en": "We decided to proceed with the plan after confirming the other party's intentions.",
-          "furigana": "<ruby>相手<rp>(</rp><rt>あいて</rt><rp>)</rp></ruby>の<ruby>意向<rp>(</rp><rt>いこう</rt><rp>)</rp></ruby>を<ruby>確認<rp>(</rp><rt>かくにん</rt><rp>)</rp></ruby>してから、<ruby>計画<rp>(</rp><rt>けいかく</rt><rp>)</rp></ruby>を<ruby>進<rp>(</rp><rt>すす</rt><rp>)</rp></ruby>めることにした。"
+          "ja": "本人の意向を確認してから手続きを進めます。",
+          "en": "We will proceed with the procedure after confirming the person's wishes.",
+          "furigana": "本人の<ruby>意向<rp>(</rp><rt>いこう</rt><rp>)</rp></ruby>を確認してから手続きを進めます。"
         },
         {
-          "ja": "本人の意向に反して、計画は変更された。",
-          "en": "The plan was changed against the person's wishes.",
-          "furigana": "<ruby>本人<rp>(</rp><rt>ほんにん</rt><rp>)</rp></ruby>の<ruby>意向<rp>(</rp><rt>いこう</rt><rp>)</rp></ruby>に<ruby>反<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>して、<ruby>計画<rp>(</rp><rt>けいかく</rt><rp>)</rp></ruby>は<ruby>変更<rp>(</rp><rt>へんこう</rt><rp>)</rp></ruby>された。"
+          "ja": "会社側は契約を更新する意向を示した。",
+          "en": "The company indicated its intention to renew the contract.",
+          "furigana": "会社側は契約を更新する<ruby>意向<rp>(</rp><rt>いこう</rt><rp>)</rp></ruby>を示した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -171,14 +171,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "自分の行動が周囲に与える影響を意識する必要がある。",
-          "en": "We need to be conscious of the impact our actions have on those around us.",
-          "furigana": "<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby>が<ruby>周囲<rp>(</rp><rt>しゅうい</rt><rp>)</rp></ruby>に<ruby>与<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>える<ruby>影響<rp>(</rp><rt>えいきょう</rt><rp>)</rp></ruby>を<ruby>意識<rp>(</rp><rt>いしき</rt><rp>)</rp></ruby>する<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>がある。"
+          "ja": "健康を意識して、毎日少し歩くようにしている。",
+          "en": "I try to walk a little every day with my health in mind.",
+          "furigana": "健康を<ruby>意識<rp>(</rp><rt>いしき</rt><rp>)</rp></ruby>して、毎日少し歩くようにしている。"
         },
         {
           "ja": "彼は問題の深刻さを十分に意識していなかった。",
-          "en": "He was not sufficiently aware of the seriousness of the problem.",
-          "furigana": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>の<ruby>深刻<rp>(</rp><rt>しんこく</rt><rp>)</rp></ruby>さを<ruby>十分<rp>(</rp><rt>じゅうぶん</rt><rp>)</rp></ruby>に<ruby>意識<rp>(</rp><rt>いしき</rt><rp>)</rp></ruby>していなかった。"
+          "en": "He was not fully aware of the seriousness of the problem.",
+          "furigana": "彼は問題の深刻さを十分に<ruby>意識<rp>(</rp><rt>いしき</rt><rp>)</rp></ruby>していなかった。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -216,12 +216,12 @@
         {
           "ja": "その発言の意図を正しく理解できなかった。",
           "en": "I could not correctly understand the intention behind that remark.",
-          "furigana": "その<ruby>発言<rp>(</rp><rt>はつげん</rt><rp>)</rp></ruby>の<ruby>意図<rp>(</rp><rt>いと</rt><rp>)</rp></ruby>を<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しく<ruby>理解<rp>(</rp><rt>りかい</rt><rp>)</rp></ruby>できなかった。"
+          "furigana": "その発言の<ruby>意図<rp>(</rp><rt>いと</rt><rp>)</rp></ruby>を正しく理解できなかった。"
         },
         {
-          "ja": "彼の意図は、チームを混乱させることではなかった。",
-          "en": "His intention was not to confuse the team.",
-          "furigana": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>意図<rp>(</rp><rt>いと</rt><rp>)</rp></ruby>は、チームを<ruby>混乱<rp>(</rp><rt>こんらん</rt><rp>)</rp></ruby>させることではなかった。"
+          "ja": "このデザインには、使いやすさを高める意図がある。",
+          "en": "This design is intended to improve usability.",
+          "furigana": "このデザインには、使いやすさを高める<ruby>意図<rp>(</rp><rt>いと</rt><rp>)</rp></ruby>がある。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -261,14 +261,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "彼女は仕事に対する意欲が高く、何事にも積極的だ。",
-          "en": "She is highly motivated at work and proactive about everything.",
-          "furigana": "<ruby>移行<rp>(</rp><rt>いこう</rt><rp>)</rp></ruby>：彼女は仕事に対する意欲が高く、何事にも積極的だ。"
+          "ja": "来月から新しいシステムへ移行する予定です。",
+          "en": "We plan to migrate to the new system next month.",
+          "furigana": "来月から新しいシステムへ<ruby>移行<rp>(</rp><rt>いこう</rt><rp>)</rp></ruby>する予定です。"
         },
         {
-          "ja": "待遇が改善されれば、社員の意欲も高まるだろう。",
-          "en": "If working conditions improve, employees' motivation will likely increase.",
-          "furigana": "<ruby>移行<rp>(</rp><rt>いこう</rt><rp>)</rp></ruby>：待遇が改善されれば、社員の意欲も高まるだろう。"
+          "ja": "紙の申請からオンライン申請へ徐々に移行している。",
+          "en": "They are gradually shifting from paper applications to online applications.",
+          "furigana": "紙の申請からオンライン申請へ徐々に<ruby>移行<rp>(</rp><rt>いこう</rt><rp>)</rp></ruby>している。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -304,14 +304,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "来月から新しいシステムへ移行する予定です。",
-          "en": "We plan to migrate to the new system starting next month.",
-          "furigana": "<ruby>維持<rp>(</rp><rt>いじ</rt><rp>)</rp></ruby>：来月から新しいシステムへ移行する予定です。"
+          "ja": "健康を維持するには、十分な睡眠が必要だ。",
+          "en": "Adequate sleep is necessary to maintain good health.",
+          "furigana": "健康を<ruby>維持<rp>(</rp><rt>いじ</rt><rp>)</rp></ruby>するには、十分な睡眠が必要だ。"
         },
         {
-          "ja": "農業中心の経済から工業中心の経済へ移行した。",
-          "en": "The economy shifted from being centered on agriculture to being centered on industry.",
-          "furigana": "<ruby>維持<rp>(</rp><rt>いじ</rt><rp>)</rp></ruby>：農業中心の経済から工業中心の経済へ移行した。"
+          "ja": "この品質を維持するため、定期的に点検を行っている。",
+          "en": "Regular inspections are carried out to maintain this quality.",
+          "furigana": "この品質を<ruby>維持<rp>(</rp><rt>いじ</rt><rp>)</rp></ruby>するため、定期的に点検を行っている。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -347,14 +347,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "健康を維持するには、十分な睡眠と適度な運動が必要だ。",
-          "en": "Maintaining good health requires enough sleep and moderate exercise.",
-          "furigana": "<ruby>衣装<rp>(</rp><rt>いしょう</rt><rp>)</rp></ruby>：健康を維持するには、十分な睡眠と適度な運動が必要だ。"
+          "ja": "式典に出席するため、正式な衣装を用意した。",
+          "en": "I prepared formal attire for the ceremony.",
+          "furigana": "式典に出席するため、正式な<ruby>衣装<rp>(</rp><rt>いしょう</rt><rp>)</rp></ruby>を用意した。"
         },
         {
-          "ja": "現状を維持するだけでは、問題の解決にならない。",
-          "en": "Simply maintaining the current situation will not solve the problem.",
-          "furigana": "<ruby>衣装<rp>(</rp><rt>いしょう</rt><rp>)</rp></ruby>：現状を維持するだけでは、問題の解決にならない。"
+          "ja": "舞台で使う衣装を出演者ごとに準備した。",
+          "en": "We prepared stage costumes for each performer.",
+          "furigana": "舞台で使う<ruby>衣装<rp>(</rp><rt>いしょう</rt><rp>)</rp></ruby>を出演者ごとに準備した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -394,14 +394,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "式典に出席するため、正式な衣装を用意した。",
-          "en": "I prepared formal attire to attend the ceremony.",
-          "furigana": "<ruby>違反<rp>(</rp><rt>いはん</rt><rp>)</rp></ruby>：式典に出席するため、正式な衣装を用意した。"
+          "ja": "交通規則に違反すると、罰金を科されることがある。",
+          "en": "Violating traffic rules can result in a fine.",
+          "furigana": "交通規則に<ruby>違反<rp>(</rp><rt>いはん</rt><rp>)</rp></ruby>すると、罰金を科されることがある。"
         },
         {
-          "ja": "季節に合った衣装を選ぶのは意外と難しい。",
-          "en": "Choosing clothing suitable for the season is surprisingly difficult.",
-          "furigana": "<ruby>違反<rp>(</rp><rt>いはん</rt><rp>)</rp></ruby>：季節に合った衣装を選ぶのは意外と難しい。"
+          "ja": "この行為は利用規約に違反しています。",
+          "en": "This action violates the terms of service.",
+          "furigana": "この行為は利用規約に<ruby>違反<rp>(</rp><rt>いはん</rt><rp>)</rp></ruby>しています。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -439,14 +439,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "この契約に違反した場合、違約金を支払わなければならない。",
-          "en": "If you violate this contract, you must pay a penalty.",
-          "furigana": "<ruby>育成<rp>(</rp><rt>いくせい</rt><rp>)</rp></ruby>：この契約に違反した場合、違約金を支払わなければならない。"
+          "ja": "会社は若手社員の育成に力を入れている。",
+          "en": "The company is focusing on developing younger employees.",
+          "furigana": "会社は若手社員の<ruby>育成<rp>(</rp><rt>いくせい</rt><rp>)</rp></ruby>に力を入れている。"
         },
         {
-          "ja": "交通規則に違反しないよう、標識をよく確認してください。",
-          "en": "Please check the signs carefully so that you do not violate traffic rules.",
-          "furigana": "<ruby>育成<rp>(</rp><rt>いくせい</rt><rp>)</rp></ruby>：交通規則に違反しないよう、標識をよく確認してください。"
+          "ja": "将来のリーダーを育成するための研修が始まった。",
+          "en": "A training program to develop future leaders has begun.",
+          "furigana": "将来のリーダーを<ruby>育成<rp>(</rp><rt>いくせい</rt><rp>)</rp></ruby>するための研修が始まった。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -488,14 +488,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "若手社員の育成に力を入れている。",
-          "en": "The company is making an effort to develop its younger employees.",
-          "furigana": "<ruby>一時<rp>(</rp><rt>いちじ</rt><rp>)</rp></ruby>：若手社員の育成に力を入れている。"
+          "ja": "事故の影響で電車は一時運転を見合わせた。",
+          "en": "Train service was temporarily suspended because of the accident.",
+          "furigana": "事故の影響で電車は<ruby>一時<rp>(</rp><rt>いちじ</rt><rp>)</rp></ruby>運転を見合わせた。"
         },
         {
-          "ja": "地域全体で子どもを育成する仕組みが必要だ。",
-          "en": "A system for nurturing children throughout the community is necessary.",
-          "furigana": "<ruby>一時<rp>(</rp><rt>いちじ</rt><rp>)</rp></ruby>：地域全体で子どもを育成する仕組みが必要だ。"
+          "ja": "一時は諦めかけたが、最後まで挑戦した。",
+          "en": "For a while I nearly gave up, but I kept trying until the end.",
+          "furigana": "<ruby>一時<rp>(</rp><rt>いちじ</rt><rp>)</rp></ruby>は諦めかけたが、最後まで挑戦した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -535,14 +535,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "一時は計画を中止することも考えた。",
-          "en": "For a while, we even considered cancelling the plan.",
-          "furigana": "<ruby>一体<rp>(</rp><rt>いったい</rt><rp>)</rp></ruby>：一時は計画を中止することも考えた。"
+          "ja": "彼は一体どこへ行ったのだろう。",
+          "en": "Where on earth did he go?",
+          "furigana": "彼は<ruby>一体<rp>(</rp><rt>いったい</rt><rp>)</rp></ruby>どこへ行ったのだろう。"
         },
         {
-          "ja": "この薬を飲むと、一時的に痛みが和らぐ。",
-          "en": "Taking this medicine temporarily relieves the pain.",
-          "furigana": "<ruby>一体<rp>(</rp><rt>いったい</rt><rp>)</rp></ruby>：この薬を飲むと、一時的に痛みが和らぐ。"
+          "ja": "チームが一体となって問題の解決に取り組んだ。",
+          "en": "The team worked as one to solve the problem.",
+          "furigana": "チームが<ruby>一体<rp>(</rp><rt>いったい</rt><rp>)</rp></ruby>となって問題の解決に取り組んだ。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -574,14 +574,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "参加者は一体となって復旧作業に取り組んだ。",
-          "en": "The participants worked together as one on the restoration effort.",
-          "furigana": "<ruby>印象<rp>(</rp><rt>いんしょう</rt><rp>)</rp></ruby>：参加者は一体となって復旧作業に取り組んだ。"
+          "ja": "第一印象だけで人を判断してはいけない。",
+          "en": "You should not judge someone solely by first impressions.",
+          "furigana": "第一<ruby>印象<rp>(</rp><rt>いんしょう</rt><rp>)</rp></ruby>だけで人を判断してはいけない。"
         },
         {
-          "ja": "この二つの問題は一体として考える必要がある。",
-          "en": "These two problems need to be considered as a whole.",
-          "furigana": "<ruby>印象<rp>(</rp><rt>いんしょう</rt><rp>)</rp></ruby>：この二つの問題は一体として考える必要がある。"
+          "ja": "面接では落ち着いて話す人だという印象を受けた。",
+          "en": "At the interview, I got the impression that the person was calm when speaking.",
+          "furigana": "面接では落ち着いて話す人だという<ruby>印象<rp>(</rp><rt>いんしょう</rt><rp>)</rp></ruby>を受けた。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -618,14 +618,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "第一印象だけで人を判断してはいけない。",
-          "en": "You should not judge people based only on your first impression.",
-          "furigana": "<ruby>引用<rp>(</rp><rt>いんよう</rt><rp>)</rp></ruby>：第一印象だけで人を判断してはいけない。"
+          "ja": "レポートで他人の文章を引用するときは、出典を示す必要がある。",
+          "en": "When quoting someone else's writing in a report, you need to cite the source.",
+          "furigana": "レポートで他人の文章を<ruby>引用<rp>(</rp><rt>いんよう</rt><rp>)</rp></ruby>するときは、出典を示す必要がある。"
         },
         {
-          "ja": "その映画は観客に強い印象を与えた。",
-          "en": "The film left a strong impression on the audience.",
-          "furigana": "<ruby>引用<rp>(</rp><rt>いんよう</rt><rp>)</rp></ruby>：その映画は観客に強い印象を与えた。"
+          "ja": "先生は新聞記事の一部を引用して説明した。",
+          "en": "The teacher quoted part of a newspaper article in the explanation.",
+          "furigana": "先生は新聞記事の一部を<ruby>引用<rp>(</rp><rt>いんよう</rt><rp>)</rp></ruby>して説明した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -661,14 +661,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "レポートを書くときは、出典を示して文章を引用するべきだ。",
-          "en": "When writing a report, you should cite passages while indicating their sources.",
-          "furigana": "<ruby>運営<rp>(</rp><rt>うんえい</rt><rp>)</rp></ruby>：レポートを書くときは、出典を示して文章を引用するべきだ。"
+          "ja": "この施設は民間企業が運営している。",
+          "en": "This facility is operated by a private company.",
+          "furigana": "この施設は民間企業が<ruby>運営<rp>(</rp><rt>うんえい</rt><rp>)</rp></ruby>している。"
         },
         {
-          "ja": "新聞記事の一部を引用して、発表資料を作成した。",
-          "en": "I prepared the presentation materials by quoting part of a newspaper article.",
-          "furigana": "<ruby>運営<rp>(</rp><rt>うんえい</rt><rp>)</rp></ruby>：新聞記事の一部を引用して、発表資料を作成した。"
+          "ja": "イベントを安全に運営するには十分なスタッフが必要だ。",
+          "en": "Enough staff are needed to run the event safely.",
+          "furigana": "イベントを安全に<ruby>運営<rp>(</rp><rt>うんえい</rt><rp>)</rp></ruby>するには十分なスタッフが必要だ。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -708,14 +708,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "この施設は民間企業が運営している。",
-          "en": "This facility is operated by a private company.",
-          "furigana": "<ruby>運行<rp>(</rp><rt>うんこう</rt><rp>)</rp></ruby>：この施設は民間企業が運営している。"
+          "ja": "台風の影響で電車の運行が停止している。",
+          "en": "Train services are suspended because of the typhoon.",
+          "furigana": "台風の影響で電車の<ruby>運行<rp>(</rp><rt>うんこう</rt><rp>)</rp></ruby>が停止している。"
         },
         {
-          "ja": "安全に運営するためには、明確なルールが必要だ。",
-          "en": "Clear rules are necessary to operate it safely.",
-          "furigana": "<ruby>運行<rp>(</rp><rt>うんこう</rt><rp>)</rp></ruby>：安全に運営するためには、明確なルールが必要だ。"
+          "ja": "このバスは朝六時から運行しています。",
+          "en": "This bus service operates from six in the morning.",
+          "furigana": "このバスは朝六時から<ruby>運行<rp>(</rp><rt>うんこう</rt><rp>)</rp></ruby>しています。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -754,14 +754,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "台風の影響で、電車の運行が一部停止している。",
-          "en": "Due to the typhoon, train services have been partially suspended.",
-          "furigana": "<ruby>運用<rp>(</rp><rt>うんよう</rt><rp>)</rp></ruby>：台風の影響で、電車の運行が一部停止している。"
+          "ja": "会社は新しい勤怠システムの運用を始めた。",
+          "en": "The company began operating a new attendance system.",
+          "furigana": "会社は新しい勤怠システムの<ruby>運用<rp>(</rp><rt>うんよう</rt><rp>)</rp></ruby>を始めた。"
         },
         {
-          "ja": "この路線は朝早くから運行している。",
-          "en": "This line operates from early in the morning.",
-          "furigana": "<ruby>運用<rp>(</rp><rt>うんよう</rt><rp>)</rp></ruby>：この路線は朝早くから運行している。"
+          "ja": "余った資金を安全に運用する方法を検討している。",
+          "en": "We are considering ways to manage the surplus funds safely.",
+          "furigana": "余った資金を安全に<ruby>運用<rp>(</rp><rt>うんよう</rt><rp>)</rp></ruby>する方法を検討している。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -797,14 +797,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "限られた予算を効率的に運用しなければならない。",
-          "en": "We must manage the limited budget efficiently.",
-          "furigana": "<ruby>影響<rp>(</rp><rt>えいきょう</rt><rp>)</rp></ruby>：限られた予算を効率的に運用しなければならない。"
+          "ja": "睡眠不足は仕事の能率に大きな影響を与える。",
+          "en": "Lack of sleep has a major effect on work efficiency.",
+          "furigana": "睡眠不足は仕事の能率に大きな<ruby>影響<rp>(</rp><rt>えいきょう</rt><rp>)</rp></ruby>を与える。"
         },
         {
-          "ja": "新しい制度を運用するには、職員への研修が欠かせない。",
-          "en": "Training staff is essential for operating the new system.",
-          "furigana": "<ruby>影響<rp>(</rp><rt>えいきょう</rt><rp>)</rp></ruby>：新しい制度を運用するには、職員への研修が欠かせない。"
+          "ja": "大雨の影響で道路が一部通行止めになった。",
+          "en": "Part of the road was closed due to the effects of heavy rain.",
+          "furigana": "大雨の<ruby>影響<rp>(</rp><rt>えいきょう</rt><rp>)</rp></ruby>で道路が一部通行止めになった。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -837,14 +837,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "環境の変化が農作物の収穫に影響を及ぼした。",
-          "en": "Changes in the environment affected the crop harvest.",
-          "furigana": "<ruby>栄養<rp>(</rp><rt>えいよう</rt><rp>)</rp></ruby>：環境の変化が農作物の収穫に影響を及ぼした。"
+          "ja": "健康を保つには栄養のバランスが大切だ。",
+          "en": "A balanced diet is important for staying healthy.",
+          "furigana": "健康を保つには<ruby>栄養<rp>(</rp><rt>えいよう</rt><rp>)</rp></ruby>のバランスが大切だ。"
         },
         {
-          "ja": "睡眠不足は仕事の能率に大きな影響を与える。",
-          "en": "Lack of sleep has a major effect on work efficiency.",
-          "furigana": "<ruby>栄養<rp>(</rp><rt>えいよう</rt><rp>)</rp></ruby>：睡眠不足は仕事の能率に大きな影響を与える。"
+          "ja": "忙しくても栄養のある食事を取るようにしている。",
+          "en": "Even when busy, I try to eat nutritious meals.",
+          "furigana": "忙しくても<ruby>栄養<rp>(</rp><rt>えいよう</rt><rp>)</rp></ruby>のある食事を取るようにしている。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -886,14 +886,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "健康を保つには、栄養のバランスが大切だ。",
-          "en": "A balanced diet is important for maintaining good health.",
-          "furigana": "<ruby>遠慮<rp>(</rp><rt>えんりょ</rt><rp>)</rp></ruby>：健康を保つには、栄養のバランスが大切だ。"
+          "ja": "分からないことがあれば、遠慮なく質問してください。",
+          "en": "If there is anything you do not understand, please feel free to ask.",
+          "furigana": "分からないことがあれば、<ruby>遠慮<rp>(</rp><rt>えんりょ</rt><rp>)</rp></ruby>なく質問してください。"
         },
         {
-          "ja": "この食品は栄養価が高く、保存もしやすい。",
-          "en": "This food is highly nutritious and easy to store.",
-          "furigana": "<ruby>遠慮<rp>(</rp><rt>えんりょ</rt><rp>)</rp></ruby>：この食品は栄養価が高く、保存もしやすい。"
+          "ja": "体調が悪かったので、飲み会への参加は遠慮した。",
+          "en": "I declined to join the drinking party because I was not feeling well.",
+          "furigana": "体調が悪かったので、飲み会への参加は<ruby>遠慮<rp>(</rp><rt>えんりょ</rt><rp>)</rp></ruby>した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -930,14 +930,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "遠慮せずに、分からないことがあれば質問してください。",
-          "en": "Please do not hesitate to ask if there is anything you do not understand.",
-          "furigana": "<ruby>横顔<rp>(</rp><rt>よこがお</rt><rp>)</rp></ruby>：遠慮せずに、分からないことがあれば質問してください。"
+          "ja": "窓に映った自分の横顔を見た。",
+          "en": "I saw my profile reflected in the window.",
+          "furigana": "窓に映った自分の<ruby>横顔<rp>(</rp><rt>よこがお</rt><rp>)</rp></ruby>を見た。"
         },
         {
-          "ja": "健康のため、夜遅くの食事は遠慮している。",
-          "en": "For the sake of my health, I refrain from eating late at night.",
-          "furigana": "<ruby>横顔<rp>(</rp><rt>よこがお</rt><rp>)</rp></ruby>：健康のため、夜遅くの食事は遠慮している。"
+          "ja": "彼女の横顔を撮った写真がとても印象的だった。",
+          "en": "The photograph showing her profile was very striking.",
+          "furigana": "彼女の<ruby>横顔<rp>(</rp><rt>よこがお</rt><rp>)</rp></ruby>を撮った写真がとても印象的だった。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -970,14 +970,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "窓に映った自分の横顔を見て、髪型を変えたくなった。",
-          "en": "Seeing my profile reflected in the window made me want to change my hairstyle.",
-          "furigana": "<ruby>家計<rp>(</rp><rt>かけい</rt><rp>)</rp></ruby>：窓に映った自分の横顔を見て、髪型を変えたくなった。"
+          "ja": "毎月の家計を見直して、無駄な出費を減らした。",
+          "en": "I reviewed our monthly household finances and reduced unnecessary spending.",
+          "furigana": "毎月の<ruby>家計<rp>(</rp><rt>かけい</rt><rp>)</rp></ruby>を見直して、無駄な出費を減らした。"
         },
         {
-          "ja": "彼女の横顔は、写真で見るよりも美しかった。",
-          "en": "Her profile was more beautiful than it looked in photographs.",
-          "furigana": "<ruby>家計<rp>(</rp><rt>かけい</rt><rp>)</rp></ruby>：彼女の横顔は、写真で見るよりも美しかった。"
+          "ja": "物価の上昇が家計に大きな負担をかけている。",
+          "en": "Rising prices are placing a heavy burden on household finances.",
+          "furigana": "物価の上昇が<ruby>家計<rp>(</rp><rt>かけい</rt><rp>)</rp></ruby>に大きな負担をかけている。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1011,13 +1011,13 @@
       "examples": [
         {
           "ja": "毎月の家計を見直して、無駄な出費を減らした。",
-          "en": "I reviewed my monthly household budget and reduced unnecessary spending.",
-          "furigana": "<ruby>毎月<rp>(</rp><rt>まいつき</rt><rp>)</rp></ruby>の<ruby>家計<rp>(</rp><rt>かけい</rt><rp>)</rp></ruby>を<ruby>見直<rp>(</rp><rt>みなお</rt><rp>)</rp></ruby>して、<ruby>無駄<rp>(</rp><rt>むだ</rt><rp>)</rp></ruby>な<ruby>出費<rp>(</rp><rt>しゅっぴ</rt><rp>)</rp></ruby>を<ruby>減<rp>(</rp><rt>へ</rt><rp>)</rp></ruby>らした。"
+          "en": "I reviewed our monthly household finances and reduced unnecessary spending.",
+          "furigana": "毎月の<ruby>家計<rp>(</rp><rt>かけい</rt><rp>)</rp></ruby>を見直して、無駄な出費を減らした。"
         },
         {
           "ja": "物価の上昇が家計に大きな負担をかけている。",
           "en": "Rising prices are placing a heavy burden on household finances.",
-          "furigana": "<ruby>物価<rp>(</rp><rt>ぶっか</rt><rp>)</rp></ruby>の<ruby>上昇<rp>(</rp><rt>じょうしょう</rt><rp>)</rp></ruby>が<ruby>家計<rp>(</rp><rt>かけい</rt><rp>)</rp></ruby>に<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きな<ruby>負担<rp>(</rp><rt>ふたん</rt><rp>)</rp></ruby>をかけている。"
+          "furigana": "物価の上昇が<ruby>家計<rp>(</rp><rt>かけい</rt><rp>)</rp></ruby>に大きな負担をかけている。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1057,13 +1057,13 @@
       "examples": [
         {
           "ja": "高校生の息子が突然家出をして、家族は心配している。",
-          "en": "The family is worried because their high-school-aged son suddenly left home.",
-          "furigana": "<ruby>高校生<rp>(</rp><rt>こうこうせい</rt><rp>)</rp></ruby>の<ruby>息子<rp>(</rp><rt>むすこ</rt><rp>)</rp></ruby>が<ruby>突然<rp>(</rp><rt>とつぜん</rt><rp>)</rp></ruby><ruby>家出<rp>(</rp><rt>いえで</rt><rp>)</rp></ruby>をして、<ruby>家族<rp>(</rp><rt>かぞく</rt><rp>)</rp></ruby>は<ruby>心配<rp>(</rp><rt>しんぱい</rt><rp>)</rp></ruby>している。"
+          "en": "The family is worried because their high-school-aged son suddenly ran away from home.",
+          "furigana": "高校生の息子が突然<ruby>家出<rp>(</rp><rt>いえで</rt><rp>)</rp></ruby>をして、家族は心配している。"
         },
         {
-          "ja": "家出を考える前に、信頼できる人に相談してほしい。",
-          "en": "Before considering running away from home, I want you to talk to someone you trust.",
-          "furigana": "<ruby>家出<rp>(</rp><rt>いえで</rt><rp>)</rp></ruby>を<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>える<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に、<ruby>信頼<rp>(</rp><rt>しんらい</rt><rp>)</rp></ruby>できる<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に<ruby>相談<rp>(</rp><rt>そうだん</rt><rp>)</rp></ruby>してほしい。"
+          "ja": "彼は親とけんかした勢いで家出したが、その日のうちに戻った。",
+          "en": "He ran away from home after arguing with his parents, but returned the same day.",
+          "furigana": "彼は親とけんかした勢いで<ruby>家出<rp>(</rp><rt>いえで</rt><rp>)</rp></ruby>したが、その日のうちに戻った。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1100,14 +1100,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "次の会議までに、この課題について考えておいてください。",
-          "en": "Please think about this issue before the next meeting.",
-          "furigana": "<ruby>解決<rp>(</rp><rt>かいけつ</rt><rp>)</rp></ruby>：次の会議までに、この課題について考えておいてください。"
+          "ja": "話し合いによって問題を解決することができた。",
+          "en": "We were able to solve the problem through discussion.",
+          "furigana": "話し合いによって問題を<ruby>解決<rp>(</rp><rt>かいけつ</rt><rp>)</rp></ruby>することができた。"
         },
         {
-          "ja": "人手不足は、多くの企業が抱えている課題である。",
-          "en": "A shortage of workers is an issue faced by many companies.",
-          "furigana": "<ruby>解決<rp>(</rp><rt>かいけつ</rt><rp>)</rp></ruby>：人手不足は、多くの企業が抱えている課題である。"
+          "ja": "原因を特定しない限り、根本的な解決にはならない。",
+          "en": "Unless we identify the cause, it will not be a fundamental solution.",
+          "furigana": "原因を特定しない限り、根本的な<ruby>解決<rp>(</rp><rt>かいけつ</rt><rp>)</rp></ruby>にはならない。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1144,14 +1144,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "完成までの過程を記録しておくと、後で役に立つ。",
-          "en": "Recording the process leading to completion will be useful later.",
-          "furigana": "<ruby>解雇<rp>(</rp><rt>かいこ</rt><rp>)</rp></ruby>：完成までの過程を記録しておくと、後で役に立つ。"
+          "ja": "会社は重大な規則違反を理由に社員を解雇した。",
+          "en": "The company dismissed the employee for a serious rule violation.",
+          "furigana": "会社は重大な規則違反を理由に社員を<ruby>解雇<rp>(</rp><rt>かいこ</rt><rp>)</rp></ruby>した。"
         },
         {
-          "ja": "結果だけでなく、そこに至る過程も評価すべきだ。",
-          "en": "We should evaluate not only the result but also the process that led to it.",
-          "furigana": "<ruby>解雇<rp>(</rp><rt>かいこ</rt><rp>)</rp></ruby>：結果だけでなく、そこに至る過程も評価すべきだ。"
+          "ja": "突然解雇され、彼は新しい仕事を探し始めた。",
+          "en": "After being suddenly dismissed, he began looking for a new job.",
+          "furigana": "突然<ruby>解雇<rp>(</rp><rt>かいこ</rt><rp>)</rp></ruby>され、彼は新しい仕事を探し始めた。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1189,14 +1189,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "過労で体調を崩さないよう、適度に休んでください。",
-          "en": "Please take adequate breaks so that you do not become ill from overwork.",
-          "furigana": "<ruby>解消<rp>(</rp><rt>かいしょう</rt><rp>)</rp></ruby>：過労で体調を崩さないよう、適度に休んでください。"
+          "ja": "運動はストレスの解消に役立つ。",
+          "en": "Exercise helps relieve stress.",
+          "furigana": "運動はストレスの<ruby>解消<rp>(</rp><rt>かいしょう</rt><rp>)</rp></ruby>に役立つ。"
         },
         {
-          "ja": "過労が原因で、仕事中に倒れる人が増えている。",
-          "en": "More people are collapsing at work due to overwork.",
-          "furigana": "<ruby>解消<rp>(</rp><rt>かいしょう</rt><rp>)</rp></ruby>：過労が原因で、仕事中に倒れる人が増えている。"
+          "ja": "人手不足を解消するため、新しいスタッフを募集している。",
+          "en": "They are recruiting new staff to alleviate the labor shortage.",
+          "furigana": "人手不足を<ruby>解消<rp>(</rp><rt>かいしょう</rt><rp>)</rp></ruby>するため、新しいスタッフを募集している。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1233,14 +1233,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "話し合いによって、両者は問題を解決することができた。",
-          "en": "Through discussion, the two sides were able to resolve the problem.",
-          "furigana": "<ruby>回収<rp>(</rp><rt>かいしゅう</rt><rp>)</rp></ruby>：話し合いによって、両者は問題を解決することができた。"
+          "ja": "使用済みの容器は店頭で回収しています。",
+          "en": "Used containers are collected at the store.",
+          "furigana": "使用済みの容器は店頭で<ruby>回収<rp>(</rp><rt>かいしゅう</rt><rp>)</rp></ruby>しています。"
         },
         {
-          "ja": "このアプリを使えば、複雑な計算も簡単に解決できる。",
-          "en": "Using this app makes it possible to solve even complex calculations easily.",
-          "furigana": "<ruby>回収<rp>(</rp><rt>かいしゅう</rt><rp>)</rp></ruby>：このアプリを使えば、複雑な計算も簡単に解決できる。"
+          "ja": "メーカーは不具合のある製品を回収すると発表した。",
+          "en": "The manufacturer announced that it would recall the defective products.",
+          "furigana": "メーカーは不具合のある製品を<ruby>回収<rp>(</rp><rt>かいしゅう</rt><rp>)</rp></ruby>すると発表した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1282,14 +1282,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "会社の業績が悪化し、彼は突然解雇された。",
-          "en": "The company's performance deteriorated, and he was suddenly dismissed.",
-          "furigana": "<ruby>回復<rp>(</rp><rt>かいふく</rt><rp>)</rp></ruby>：会社の業績が悪化し、彼は突然解雇された。"
+          "ja": "風邪から回復して、今日から仕事に戻った。",
+          "en": "I recovered from my cold and returned to work today.",
+          "furigana": "風邪から<ruby>回復<rp>(</rp><rt>かいふく</rt><rp>)</rp></ruby>して、今日から仕事に戻った。"
         },
         {
-          "ja": "正当な理由のない解雇は認められない。",
-          "en": "Dismissal without a legitimate reason is not permitted.",
-          "furigana": "<ruby>回復<rp>(</rp><rt>かいふく</rt><rp>)</rp></ruby>：正当な理由のない解雇は認められない。"
+          "ja": "観光客の数は少しずつ回復している。",
+          "en": "The number of tourists is gradually recovering.",
+          "furigana": "観光客の数は少しずつ<ruby>回復<rp>(</rp><rt>かいふく</rt><rp>)</rp></ruby>している。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1326,14 +1326,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "安全が確認されたため、通行止めが解除された。",
-          "en": "The road closure was lifted after safety was confirmed.",
-          "furigana": "<ruby>改善<rp>(</rp><rt>かいぜん</rt><rp>)</rp></ruby>：安全が確認されたため、通行止めが解除された。"
+          "ja": "働き方を見直した結果、作業効率が改善した。",
+          "en": "Work efficiency improved after we reviewed our working methods.",
+          "furigana": "働き方を見直した結果、作業効率が<ruby>改善<rp>(</rp><rt>かいぜん</rt><rp>)</rp></ruby>した。"
         },
         {
-          "ja": "携帯電話のロックを解除するには、暗証番号が必要だ。",
-          "en": "A PIN is required to unlock the mobile phone.",
-          "furigana": "<ruby>改善<rp>(</rp><rt>かいぜん</rt><rp>)</rp></ruby>：携帯電話のロックを解除するには、暗証番号が必要だ。"
+          "ja": "利用者の意見をもとにサービスを改善した。",
+          "en": "We improved the service based on user feedback.",
+          "furigana": "利用者の意見をもとにサービスを<ruby>改善<rp>(</rp><rt>かいぜん</rt><rp>)</rp></ruby>した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1369,14 +1369,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "問題の原因を解消するには、根本的な対策が必要だ。",
-          "en": "Fundamental measures are necessary to eliminate the cause of the problem.",
-          "furigana": "<ruby>獲得<rp>(</rp><rt>かくとく</rt><rp>)</rp></ruby>：問題の原因を解消するには、根本的な対策が必要だ。"
+          "ja": "努力の結果、新しい顧客を獲得することができた。",
+          "en": "As a result of our efforts, we were able to acquire new customers.",
+          "furigana": "努力の結果、新しい顧客を<ruby>獲得<rp>(</rp><rt>かくとく</rt><rp>)</rp></ruby>することができた。"
         },
         {
-          "ja": "この薬は、筋肉の緊張を解消する効果がある。",
-          "en": "This medicine helps relieve muscle tension.",
-          "furigana": "<ruby>獲得<rp>(</rp><rt>かくとく</rt><rp>)</rp></ruby>：この薬は、筋肉の緊張を解消する効果がある。"
+          "ja": "大会で優勝し、出場権を獲得した。",
+          "en": "By winning the tournament, the team earned the right to participate.",
+          "furigana": "大会で優勝し、出場権を<ruby>獲得<rp>(</rp><rt>かくとく</rt><rp>)</rp></ruby>した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1410,14 +1410,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "専門家が新しい制度について分かりやすく解説した。",
-          "en": "An expert explained the new system in an easy-to-understand way.",
-          "furigana": "<ruby>確率<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>：専門家が新しい制度について分かりやすく解説した。"
+          "ja": "明日は雨が降る確率が高い。",
+          "en": "There is a high probability of rain tomorrow.",
+          "furigana": "明日は雨が降る<ruby>確率<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>が高い。"
         },
         {
-          "ja": "記事の最後に、用語の解説が載っている。",
-          "en": "An explanation of the terminology appears at the end of the article.",
-          "furigana": "<ruby>確率<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>：記事の最後に、用語の解説が載っている。"
+          "ja": "この方法なら成功する確率を上げられる。",
+          "en": "This method can increase the probability of success.",
+          "furigana": "この方法なら成功する<ruby>確率<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>を上げられる。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1453,14 +1453,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "不要になった家電を回収してもらった。",
-          "en": "I had the unnecessary household appliances collected.",
-          "furigana": "<ruby>確立<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>：不要になった家電を回収してもらった。"
+          "ja": "会社は独自の技術を確立した。",
+          "en": "The company established its own technology.",
+          "furigana": "会社は独自の技術を<ruby>確立<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>した。"
         },
         {
-          "ja": "調査員は現場から重要なデータを回収した。",
-          "en": "The investigators recovered important data from the site.",
-          "furigana": "<ruby>確立<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>：調査員は現場から重要なデータを回収した。"
+          "ja": "毎日勉強する習慣を確立したい。",
+          "en": "I want to establish a habit of studying every day.",
+          "furigana": "毎日勉強する習慣を<ruby>確立<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>したい。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1498,14 +1498,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "けがから回復するまで、しばらく運動を控えた。",
-          "en": "I avoided exercising for a while until I recovered from my injury.",
-          "furigana": "<ruby>覚悟<rp>(</rp><rt>かくご</rt><rp>)</rp></ruby>：けがから回復するまで、しばらく運動を控えた。"
+          "ja": "失敗する可能性もあると覚悟して挑戦した。",
+          "en": "I took on the challenge prepared for the possibility of failure.",
+          "furigana": "失敗する可能性もあると<ruby>覚悟<rp>(</rp><rt>かくご</rt><rp>)</rp></ruby>して挑戦した。"
         },
         {
-          "ja": "景気は少しずつ回復しつつある。",
-          "en": "The economy is gradually recovering.",
-          "furigana": "<ruby>覚悟<rp>(</rp><rt>かくご</rt><rp>)</rp></ruby>：景気は少しずつ回復しつつある。"
+          "ja": "厳しい結果を受け入れる覚悟が必要だ。",
+          "en": "You need to be prepared to accept a difficult outcome.",
+          "furigana": "厳しい結果を受け入れる<ruby>覚悟<rp>(</rp><rt>かくご</rt><rp>)</rp></ruby>が必要だ。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1540,14 +1540,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "作業方法を改善した結果、生産性が大幅に向上した。",
-          "en": "Improving the work method led to a significant increase in productivity.",
-          "furigana": "<ruby>学習<rp>(</rp><rt>がくしゅう</rt><rp>)</rp></ruby>：作業方法を改善した結果、生産性が大幅に向上した。"
+          "ja": "毎日一時間、日本語を学習している。",
+          "en": "I study Japanese for an hour every day.",
+          "furigana": "毎日一時間、日本語を<ruby>学習<rp>(</rp><rt>がくしゅう</rt><rp>)</rp></ruby>している。"
         },
         {
-          "ja": "生活習慣を改善するため、毎朝歩くことにした。",
-          "en": "I decided to walk every morning to improve my lifestyle.",
-          "furigana": "<ruby>学習<rp>(</rp><rt>がくしゅう</rt><rp>)</rp></ruby>：生活習慣を改善するため、毎朝歩くことにした。"
+          "ja": "学習の記録をつけると、自分の進歩が分かりやすい。",
+          "en": "Keeping a study record makes it easier to see your progress.",
+          "furigana": "<ruby>学習<rp>(</rp><rt>がくしゅう</rt><rp>)</rp></ruby>の記録をつけると、自分の進歩が分かりやすい。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1581,14 +1581,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "駅の改修工事によって、待合室が大幅に拡大された。",
-          "en": "The waiting room was greatly expanded through renovations at the station.",
-          "furigana": "<ruby>学歴<rp>(</rp><rt>がくれき</rt><rp>)</rp></ruby>：駅の改修工事によって、待合室が大幅に拡大された。"
+          "ja": "応募書類には学歴と職歴を記入してください。",
+          "en": "Please enter your educational and employment history on the application form.",
+          "furigana": "応募書類には<ruby>学歴<rp>(</rp><rt>がくれき</rt><rp>)</rp></ruby>と職歴を記入してください。"
         },
         {
-          "ja": "事業を拡大するため、新しい人材を採用した。",
-          "en": "We hired new talent in order to expand the business.",
-          "furigana": "<ruby>学歴<rp>(</rp><rt>がくれき</rt><rp>)</rp></ruby>：事業を拡大するため、新しい人材を採用した。"
+          "ja": "この仕事では学歴より実務経験が重視される。",
+          "en": "For this job, practical experience is valued more than educational background.",
+          "furigana": "この仕事では<ruby>学歴<rp>(</rp><rt>がくれき</rt><rp>)</rp></ruby>より実務経験が重視される。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1621,14 +1621,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "努力の結果、彼は念願の資格を獲得した。",
-          "en": "As a result of his efforts, he obtained the qualification he had long wanted.",
-          "furigana": "<ruby>楽器<rp>(</rp><rt>がっき</rt><rp>)</rp></ruby>：努力の結果、彼は念願の資格を獲得した。"
+          "ja": "子どものころから楽器を演奏するのが好きだった。",
+          "en": "I have enjoyed playing musical instruments since childhood.",
+          "furigana": "子どものころから<ruby>楽器<rp>(</rp><rt>がっき</rt><rp>)</rp></ruby>を演奏するのが好きだった。"
         },
         {
-          "ja": "新しい市場で大きな利益を獲得することを目指している。",
-          "en": "We aim to gain substantial profits in the new market.",
-          "furigana": "<ruby>楽器<rp>(</rp><rt>がっき</rt><rp>)</rp></ruby>：新しい市場で大きな利益を獲得することを目指している。"
+          "ja": "この店では中古の楽器も販売している。",
+          "en": "This shop also sells used musical instruments.",
+          "furigana": "この店では中古の<ruby>楽器<rp>(</rp><rt>がっき</rt><rp>)</rp></ruby>も販売している。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1666,14 +1666,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "この薬を飲めば治る確率は高い。",
-          "en": "The probability of recovery is high if you take this medicine.",
-          "furigana": "<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>：この薬を飲めば治る確率は高い。"
+          "ja": "助けてくれた友人に心から感謝している。",
+          "en": "I am sincerely grateful to the friend who helped me.",
+          "furigana": "助けてくれた友人に心から<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>している。"
         },
         {
-          "ja": "合格する確率を少しでも上げるため、毎日勉強している。",
-          "en": "I study every day to raise my chances of passing, even slightly.",
-          "furigana": "<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>：合格する確率を少しでも上げるため、毎日勉強している。"
+          "ja": "日頃のご支援に感謝申し上げます。",
+          "en": "We sincerely appreciate your continued support.",
+          "furigana": "日頃のご支援に<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>申し上げます。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1713,14 +1713,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "新しい制度を確立するには、関係者の協力が欠かせない。",
-          "en": "Cooperation from the relevant parties is essential to establish a new system.",
-          "furigana": "<ruby>感心<rp>(</rp><rt>かんしん</rt><rp>)</rp></ruby>：新しい制度を確立するには、関係者の協力が欠かせない。"
+          "ja": "彼の丁寧な仕事ぶりに感心した。",
+          "en": "I was impressed by how carefully he worked.",
+          "furigana": "彼の丁寧な仕事ぶりに<ruby>感心<rp>(</rp><rt>かんしん</rt><rp>)</rp></ruby>した。"
         },
         {
-          "ja": "会社は海外での販売網を確立した。",
-          "en": "The company established a sales network overseas.",
-          "furigana": "<ruby>感心<rp>(</rp><rt>かんしん</rt><rp>)</rp></ruby>：会社は海外での販売網を確立した。"
+          "ja": "毎日欠かさず練習しているとは、本当に感心だ。",
+          "en": "It is truly admirable that you practice every single day.",
+          "furigana": "毎日欠かさず練習しているとは、本当に<ruby>感心<rp>(</rp><rt>かんしん</rt><rp>)</rp></ruby>だ。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1754,14 +1754,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "旅行に行く前に、十分な覚悟をしておく必要がある。",
-          "en": "You need to be fully prepared mentally before going on the trip.",
-          "furigana": "<ruby>環境<rp>(</rp><rt>かんきょう</rt><rp>)</rp></ruby>：旅行に行く前に、十分な覚悟をしておく必要がある。"
+          "ja": "静かな環境のほうが勉強に集中できる。",
+          "en": "I can concentrate on studying better in a quiet environment.",
+          "furigana": "静かな<ruby>環境<rp>(</rp><rt>かんきょう</rt><rp>)</rp></ruby>のほうが勉強に集中できる。"
         },
         {
-          "ja": "彼は困難に直面しても、最後までやり抜く覚悟を決めた。",
-          "en": "Even when faced with difficulties, he resolved to see it through to the end.",
-          "furigana": "<ruby>環境<rp>(</rp><rt>かんきょう</rt><rp>)</rp></ruby>：彼は困難に直面しても、最後までやり抜く覚悟を決めた。"
+          "ja": "働きやすい環境を整えることが大切だ。",
+          "en": "It is important to create a comfortable working environment.",
+          "furigana": "働きやすい<ruby>環境<rp>(</rp><rt>かんきょう</rt><rp>)</rp></ruby>を整えることが大切だ。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1796,14 +1796,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "仕事と学習を両立させるのは簡単ではない。",
-          "en": "Balancing work and study is not easy.",
-          "furigana": "<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>と<ruby>学習<rp>(</rp><rt>がくしゅう</rt><rp>)</rp></ruby>を<ruby>両立<rp>(</rp><rt>りょうりつ</rt><rp>)</rp></ruby>させるのは<ruby>簡単<rp>(</rp><rt>かんたん</rt><rp>)</rp></ruby>ではない。"
+          "ja": "毎日一時間、日本語を学習している。",
+          "en": "I study Japanese for an hour every day.",
+          "furigana": "毎日一時間、日本語を<ruby>学習<rp>(</rp><rt>がくしゅう</rt><rp>)</rp></ruby>している。"
         },
         {
-          "ja": "毎日の学習によって、少しずつ知識が身についてきた。",
-          "en": "Through daily study, I have gradually acquired knowledge.",
-          "furigana": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>の<ruby>学習<rp>(</rp><rt>がくしゅう</rt><rp>)</rp></ruby>によって、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しずつ<ruby>知識<rp>(</rp><rt>ちしき</rt><rp>)</rp></ruby>が<ruby>身<rp>(</rp><rt>み</rt><rp>)</rp></ruby>についてきた。"
+          "ja": "学習の記録をつけると、自分の進歩が分かりやすい。",
+          "en": "Keeping a study record makes it easier to see your progress.",
+          "furigana": "<ruby>学習<rp>(</rp><rt>がくしゅう</rt><rp>)</rp></ruby>の記録をつけると、自分の進歩が分かりやすい。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1839,14 +1839,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "履歴書には、これまでの学歴と職歴を記入してください。",
-          "en": "Please enter your educational and employment history on your résumé.",
-          "furigana": "<ruby>確立<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>：履歴書には、これまでの学歴と職歴を記入してください。"
+          "ja": "会社は独自の技術を確立した。",
+          "en": "The company established its own technology.",
+          "furigana": "会社は独自の技術を<ruby>確立<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>した。"
         },
         {
-          "ja": "採用の際に学歴だけを重視する企業もある。",
-          "en": "Some companies place too much emphasis on academic background when hiring.",
-          "furigana": "<ruby>確立<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>：採用の際に学歴だけを重視する企業もある。"
+          "ja": "毎日勉強する習慣を確立したい。",
+          "en": "I want to establish a habit of studying every day.",
+          "furigana": "毎日勉強する習慣を<ruby>確立<rp>(</rp><rt>かくりつ</rt><rp>)</rp></ruby>したい。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1884,14 +1884,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "子どものころから、いろいろな楽器に触れてきた。",
-          "en": "I have been exposed to various musical instruments since childhood.",
-          "furigana": "<ruby>覚悟<rp>(</rp><rt>かくご</rt><rp>)</rp></ruby>：子どものころから、いろいろな楽器に触れてきた。"
+          "ja": "失敗する可能性もあると覚悟して挑戦した。",
+          "en": "I took on the challenge prepared for the possibility of failure.",
+          "furigana": "失敗する可能性もあると<ruby>覚悟<rp>(</rp><rt>かくご</rt><rp>)</rp></ruby>して挑戦した。"
         },
         {
-          "ja": "この店では、初心者向けの楽器を販売している。",
-          "en": "This shop sells musical instruments for beginners.",
-          "furigana": "<ruby>覚悟<rp>(</rp><rt>かくご</rt><rp>)</rp></ruby>：この店では、初心者向けの楽器を販売している。"
+          "ja": "厳しい結果を受け入れる覚悟が必要だ。",
+          "en": "You need to be prepared to accept a difficult outcome.",
+          "furigana": "厳しい結果を受け入れる<ruby>覚悟<rp>(</rp><rt>かくご</rt><rp>)</rp></ruby>が必要だ。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1929,14 +1929,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "協力してくれた皆さんに、心から感謝しています。",
-          "en": "I am sincerely grateful to everyone who helped us.",
-          "furigana": "<ruby>協力<rp>(</rp><rt>きょうりょく</rt><rp>)</rp></ruby>してくれた<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby>さんに、<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>から<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>しています。"
+          "ja": "助けてくれた友人に心から感謝している。",
+          "en": "I am sincerely grateful to the friend who helped me.",
+          "furigana": "助けてくれた友人に心から<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>している。"
         },
         {
-          "ja": "日頃の感謝を込めて、両親に花を贈った。",
-          "en": "I gave flowers to my parents as a token of my gratitude.",
-          "furigana": "<ruby>日頃<rp>(</rp><rt>ひごろ</rt><rp>)</rp></ruby>の<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>を<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>めて、<ruby>両親<rp>(</rp><rt>りょうしん</rt><rp>)</rp></ruby>に<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>を<ruby>贈<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>った。"
+          "ja": "日頃のご支援に感謝申し上げます。",
+          "en": "We sincerely appreciate your continued support.",
+          "furigana": "日頃のご支援に<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>申し上げます。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -1976,14 +1976,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "彼の仕事に対する責任感には感心した。",
-          "en": "I was impressed by his sense of responsibility toward his work.",
-          "furigana": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>に<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>する<ruby>責任<rp>(</rp><rt>せきにん</rt><rp>)</rp></ruby><ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>には<ruby>感心<rp>(</rp><rt>かんしん</rt><rp>)</rp></ruby>した。"
+          "ja": "彼の丁寧な仕事ぶりに感心した。",
+          "en": "I was impressed by how carefully he worked.",
+          "furigana": "彼の丁寧な仕事ぶりに<ruby>感心<rp>(</rp><rt>かんしん</rt><rp>)</rp></ruby>した。"
         },
         {
-          "ja": "難しい質問に即答した彼女の知識には感心させられた。",
-          "en": "I was impressed by her knowledge when she answered the difficult question immediately.",
-          "furigana": "<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しい<ruby>質問<rp>(</rp><rt>しつもん</rt><rp>)</rp></ruby>に<ruby>即答<rp>(</rp><rt>そくとう</rt><rp>)</rp></ruby>した<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>の<ruby>知識<rp>(</rp><rt>ちしき</rt><rp>)</rp></ruby>には<ruby>感心<rp>(</rp><rt>かんしん</rt><rp>)</rp></ruby>させられた。"
+          "ja": "毎日欠かさず練習しているとは、本当に感心だ。",
+          "en": "It is truly admirable that you practice every single day.",
+          "furigana": "毎日欠かさず練習しているとは、本当に<ruby>感心<rp>(</rp><rt>かんしん</rt><rp>)</rp></ruby>だ。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2017,14 +2017,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "子どもが成長する環境は、家庭だけでなく学校にも左右される。",
-          "en": "The environment in which a child grows is influenced by both home and school.",
-          "furigana": "<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>どもが<ruby>成長<rp>(</rp><rt>せいちょう</rt><rp>)</rp></ruby>する<ruby>環境<rp>(</rp><rt>かんきょう</rt><rp>)</rp></ruby>は、<ruby>家庭<rp>(</rp><rt>かてい</rt><rp>)</rp></ruby>だけでなく<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>にも<ruby>左右<rp>(</rp><rt>さゆう</rt><rp>)</rp></ruby>される。"
+          "ja": "静かな環境のほうが勉強に集中できる。",
+          "en": "I can concentrate on studying better in a quiet environment.",
+          "furigana": "静かな<ruby>環境<rp>(</rp><rt>かんきょう</rt><rp>)</rp></ruby>のほうが勉強に集中できる。"
         },
         {
-          "ja": "環境への負担を減らすため、使い捨て製品を減らしている。",
-          "en": "We are reducing disposable products to lessen the burden on the environment.",
-          "furigana": "<ruby>環境<rp>(</rp><rt>かんきょう</rt><rp>)</rp></ruby>への<ruby>負担<rp>(</rp><rt>ふたん</rt><rp>)</rp></ruby>を<ruby>減<rp>(</rp><rt>へ</rt><rp>)</rp></ruby>らすため、<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby>捨<rp>(</rp><rt>す</rt><rp>)</rp></ruby>て<ruby>製品<rp>(</rp><rt>せいひん</rt><rp>)</rp></ruby>を<ruby>減<rp>(</rp><rt>へ</rt><rp>)</rp></ruby>らしている。"
+          "ja": "働きやすい環境を整えることが大切だ。",
+          "en": "It is important to create a comfortable working environment.",
+          "furigana": "働きやすい<ruby>環境<rp>(</rp><rt>かんきょう</rt><rp>)</rp></ruby>を整えることが大切だ。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2063,14 +2063,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "個人情報は厳重に管理しなければならない。",
-          "en": "Personal information must be managed strictly.",
-          "furigana": "<ruby>機関<rp>(</rp><rt>きかん</rt><rp>)</rp></ruby>：個人情報は厳重に管理しなければならない。"
+          "ja": "この問題は専門の機関に相談したほうがいい。",
+          "en": "It would be better to consult a specialized organization about this problem.",
+          "furigana": "この問題は専門の<ruby>機関<rp>(</rp><rt>きかん</rt><rp>)</rp></ruby>に相談したほうがいい。"
         },
         {
-          "ja": "プロジェクトの進み具合を管理する担当者を置いた。",
-          "en": "We assigned someone to manage the progress of the project.",
-          "furigana": "<ruby>機関<rp>(</rp><rt>きかん</rt><rp>)</rp></ruby>：プロジェクトの進み具合を管理する担当者を置いた。"
+          "ja": "政府機関が新しい調査結果を発表した。",
+          "en": "A government agency announced new survey results.",
+          "furigana": "政府<ruby>機関<rp>(</rp><rt>きかん</rt><rp>)</rp></ruby>が新しい調査結果を発表した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2107,14 +2107,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "高齢者にも使いやすい簡易トイレを設置した。",
-          "en": "We installed a simple toilet that is easy for elderly people to use.",
-          "furigana": "<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>：高齢者にも使いやすい簡易トイレを設置した。"
+          "ja": "このアプリには自動保存の機能がある。",
+          "en": "This app has an autosave function.",
+          "furigana": "このアプリには自動保存の<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>がある。"
         },
         {
-          "ja": "申請には簡易な手続きしか必要ない。",
-          "en": "The application requires only a simple procedure.",
-          "furigana": "<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>：申請には簡易な手続きしか必要ない。"
+          "ja": "アップデート後、一部の機能が使えなくなった。",
+          "en": "Some functions became unavailable after the update.",
+          "furigana": "アップデート後、一部の<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>が使えなくなった。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2147,14 +2147,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "来年度の新商品の企画を、今月中にまとめる予定だ。",
-          "en": "We plan to finalize the new-product proposal for next year this month.",
-          "furigana": "<ruby>来年度<rp>(</rp><rt>らいねんど</rt><rp>)</rp></ruby>の<ruby>新<rp>(</rp><rt>しん</rt><rp>)</rp></ruby><ruby>商品<rp>(</rp><rt>しょうひん</rt><rp>)</rp></ruby>の<ruby>企画<rp>(</rp><rt>きかく</rt><rp>)</rp></ruby>を、<ruby>今月<rp>(</rp><rt>こんげつ</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>にまとめる<ruby>予定<rp>(</rp><rt>よてい</rt><rp>)</rp></ruby>だ。"
+          "ja": "この製品は国際規格に適合している。",
+          "en": "This product complies with international standards.",
+          "furigana": "この製品は国際<ruby>規格<rp>(</rp><rt>きかく</rt><rp>)</rp></ruby>に適合している。"
         },
         {
-          "ja": "地域の特産品を使ったイベントを企画している。",
-          "en": "We are planning an event using local specialty products.",
-          "furigana": "<ruby>地域<rp>(</rp><rt>ちいき</rt><rp>)</rp></ruby>の<ruby>特産<rp>(</rp><rt>とくさん</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>ったイベントを<ruby>企画<rp>(</rp><rt>きかく</rt><rp>)</rp></ruby>している。"
+          "ja": "規格が違うため、この部品は取り付けられない。",
+          "en": "This part cannot be installed because it uses a different standard.",
+          "furigana": "<ruby>規格<rp>(</rp><rt>きかく</rt><rp>)</rp></ruby>が違うため、この部品は取り付けられない。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2191,14 +2191,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "その企業は、環境に配慮した製品を開発している。",
-          "en": "The company develops environmentally friendly products.",
-          "furigana": "<ruby>規制<rp>(</rp><rt>きせい</rt><rp>)</rp></ruby>：その企業は、環境に配慮した製品を開発している。"
+          "ja": "安全のため、工事現場周辺では交通規制が行われている。",
+          "en": "Traffic restrictions are in place around the construction site for safety.",
+          "furigana": "安全のため、工事現場周辺では交通<ruby>規制<rp>(</rp><rt>きせい</rt><rp>)</rp></ruby>が行われている。"
         },
         {
-          "ja": "企業と大学が協力して、新しい技術を研究している。",
-          "en": "Companies and universities are cooperating to research new technologies.",
-          "furigana": "<ruby>規制<rp>(</rp><rt>きせい</rt><rp>)</rp></ruby>：企業と大学が協力して、新しい技術を研究している。"
+          "ja": "新しい規制によって手続きが厳しくなった。",
+          "en": "The procedures became stricter because of new regulations.",
+          "furigana": "新しい<ruby>規制<rp>(</rp><rt>きせい</rt><rp>)</rp></ruby>によって手続きが厳しくなった。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2231,14 +2231,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "学校の規則では、授業中にスマートフォンを使ってはいけない。",
-          "en": "School rules say that smartphones must not be used during class.",
-          "furigana": "学校の<ruby>規則<rp>(</rp><rt>きそく</rt><rp>)</rp></ruby>では、授業中にスマートフォンを使ってはいけない。"
+          "ja": "学校の規則を守らなければならない。",
+          "en": "We must follow the school's rules.",
+          "furigana": "学校の<ruby>規則<rp>(</rp><rt>きそく</rt><rp>)</rp></ruby>を守らなければならない。"
         },
         {
-          "ja": "新しい職場では、まず会社の規則を確認しておいたほうがいい。",
-          "en": "At a new workplace, it is best to check the company rules first.",
-          "furigana": "新しい職場では、まず会社の<ruby>規則<rp>(</rp><rt>きそく</rt><rp>)</rp></ruby>を確認しておいたほうがいい。"
+          "ja": "安全のために新しい規則が設けられた。",
+          "en": "New rules were established for safety.",
+          "furigana": "安全のために新しい<ruby>規則<rp>(</rp><rt>きそく</rt><rp>)</rp></ruby>が設けられた。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2273,14 +2273,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "このイベントは年々規模が大きくなっている。",
-          "en": "This event has been growing in scale every year.",
-          "furigana": "このイベントは年々<ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby>が大きくなっている。"
+          "ja": "この会社は事業の規模を拡大している。",
+          "en": "This company is expanding the scale of its business.",
+          "furigana": "この会社は事業の<ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby>を拡大している。"
         },
         {
-          "ja": "小規模な会社でも、海外の顧客と取引することは珍しくない。",
-          "en": "Even small companies commonly do business with overseas customers.",
-          "furigana": "小<ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby>な会社でも、海外の顧客と取引することは珍しくない。"
+          "ja": "予想以上に規模の大きなイベントだった。",
+          "en": "The event was larger in scale than expected.",
+          "furigana": "予想以上に<ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby>の大きなイベントだった。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2317,14 +2317,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "期末試験に向けて、毎日少しずつ復習している。",
-          "en": "I review a little every day in preparation for the final exams.",
-          "furigana": "<ruby>規約<rp>(</rp><rt>きやく</rt><rp>)</rp></ruby>：期末試験に向けて、毎日少しずつ復習している。"
+          "ja": "登録する前に利用規約を確認してください。",
+          "en": "Please check the terms of service before registering.",
+          "furigana": "登録する前に利用<ruby>規約<rp>(</rp><rt>きやく</rt><rp>)</rp></ruby>を確認してください。"
         },
         {
-          "ja": "期末の忙しい時期には、図書館の利用者が増える。",
-          "en": "The number of library users increases during the busy end-of-term period.",
-          "furigana": "<ruby>規約<rp>(</rp><rt>きやく</rt><rp>)</rp></ruby>：期末の忙しい時期には、図書館の利用者が増える。"
+          "ja": "規約に同意しない場合、このサービスは利用できない。",
+          "en": "If you do not agree to the terms, you cannot use this service.",
+          "furigana": "<ruby>規約<rp>(</rp><rt>きやく</rt><rp>)</rp></ruby>に同意しない場合、このサービスは利用できない。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2360,14 +2360,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "政府の関係機関が調査を開始した。",
-          "en": "A relevant government agency began an investigation.",
-          "furigana": "<ruby>記入<rp>(</rp><rt>きにゅう</rt><rp>)</rp></ruby>：政府の関係機関が調査を開始した。"
+          "ja": "申込書に名前と住所を記入してください。",
+          "en": "Please fill in your name and address on the application form.",
+          "furigana": "申込書に名前と住所を<ruby>記入<rp>(</rp><rt>きにゅう</rt><rp>)</rp></ruby>してください。"
         },
         {
-          "ja": "金融機関から融資を受けるには、審査を通る必要がある。",
-          "en": "To receive a loan from a financial institution, you need to pass its screening.",
-          "furigana": "<ruby>記入<rp>(</rp><rt>きにゅう</rt><rp>)</rp></ruby>：金融機関から融資を受けるには、審査を通る必要がある。"
+          "ja": "記入漏れがないか、提出前に確認した。",
+          "en": "I checked for any missing entries before submitting the form.",
+          "furigana": "<ruby>記入<rp>(</rp><rt>きにゅう</rt><rp>)</rp></ruby>漏れがないか、提出前に確認した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2403,14 +2403,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "このスマートフォンは、便利な機能を数多く備えている。",
-          "en": "This smartphone has many useful functions.",
-          "furigana": "<ruby>休戦<rp>(</rp><rt>きゅうせん</rt><rp>)</rp></ruby>：このスマートフォンは、便利な機能を数多く備えている。"
+          "ja": "両国は一時的な休戦に合意した。",
+          "en": "The two countries agreed to a temporary ceasefire.",
+          "furigana": "両国は一時的な<ruby>休戦<rp>(</rp><rt>きゅうせん</rt><rp>)</rp></ruby>に合意した。"
         },
         {
-          "ja": "緊張すると、記憶する機能が一時的に低下することがある。",
-          "en": "When people are nervous, their ability to remember may temporarily decline.",
-          "furigana": "<ruby>休戦<rp>(</rp><rt>きゅうせん</rt><rp>)</rp></ruby>：緊張すると、記憶する機能が一時的に低下することがある。"
+          "ja": "休戦が成立し、戦闘はいったん停止した。",
+          "en": "A ceasefire was reached, and the fighting temporarily stopped.",
+          "furigana": "<ruby>休戦<rp>(</rp><rt>きゅうせん</rt><rp>)</rp></ruby>が成立し、戦闘はいったん停止した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2446,14 +2446,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "製品が安全基準と規格を満たしているか確認した。",
-          "en": "We checked whether the product meets safety standards and specifications.",
-          "furigana": "<ruby>居住<rp>(</rp><rt>きょじゅう</rt><rp>)</rp></ruby>：製品が安全基準と規格を満たしているか確認した。"
+          "ja": "現在、日本に居住している外国人を対象とした調査です。",
+          "en": "This survey is for foreign nationals currently residing in Japan.",
+          "furigana": "現在、日本に<ruby>居住<rp>(</rp><rt>きょじゅう</rt><rp>)</rp></ruby>している外国人を対象とした調査です。"
         },
         {
-          "ja": "国際規格に合わせて、部品の設計を変更した。",
-          "en": "We changed the design of the parts to conform to international standards.",
-          "furigana": "<ruby>居住<rp>(</rp><rt>きょじゅう</rt><rp>)</rp></ruby>：国際規格に合わせて、部品の設計を変更した。"
+          "ja": "この地域に十年以上居住している。",
+          "en": "I have lived in this area for more than ten years.",
+          "furigana": "この地域に十年以上<ruby>居住<rp>(</rp><rt>きょじゅう</rt><rp>)</rp></ruby>している。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2490,14 +2490,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "政府は排出ガスに関する規制を強化した。",
-          "en": "The government tightened regulations on exhaust emissions.",
-          "furigana": "<ruby>距離<rp>(</rp><rt>きょり</rt><rp>)</rp></ruby>：政府は排出ガスに関する規制を強化した。"
+          "ja": "駅から学校までの距離は約二キロだ。",
+          "en": "The distance from the station to the school is about two kilometers.",
+          "furigana": "駅から学校までの<ruby>距離<rp>(</rp><rt>きょり</rt><rp>)</rp></ruby>は約二キロだ。"
         },
         {
-          "ja": "規制が緩和され、新しい事業に参入しやすくなった。",
-          "en": "Regulations were relaxed, making it easier to enter new businesses.",
-          "furigana": "<ruby>距離<rp>(</rp><rt>きょり</rt><rp>)</rp></ruby>：規制が緩和され、新しい事業に参入しやすくなった。"
+          "ja": "安全のため、前の車との距離を十分に取ってください。",
+          "en": "For safety, keep enough distance from the car in front.",
+          "furigana": "安全のため、前の車との<ruby>距離<rp>(</rp><rt>きょり</rt><rp>)</rp></ruby>を十分に取ってください。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2536,14 +2536,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "図書館の規則を守って、静かに利用してください。",
-          "en": "Please use the library quietly and follow its rules.",
-          "furigana": "<ruby>競争<rp>(</rp><rt>きょうそう</rt><rp>)</rp></ruby>：図書館の規則を守って、静かに利用してください。"
+          "ja": "同じ業界の企業同士で激しい競争が続いている。",
+          "en": "Fierce competition continues among companies in the same industry.",
+          "furigana": "同じ業界の企業同士で激しい<ruby>競争<rp>(</rp><rt>きょうそう</rt><rp>)</rp></ruby>が続いている。"
         },
         {
-          "ja": "会社の規則では、勤務中の私用電話は禁止されている。",
-          "en": "Company rules prohibit personal phone calls during working hours.",
-          "furigana": "<ruby>競争<rp>(</rp><rt>きょうそう</rt><rp>)</rp></ruby>：会社の規則では、勤務中の私用電話は禁止されている。"
+          "ja": "価格だけで競争するのは難しい。",
+          "en": "It is difficult to compete on price alone.",
+          "furigana": "価格だけで<ruby>競争<rp>(</rp><rt>きょうそう</rt><rp>)</rp></ruby>するのは難しい。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2578,14 +2578,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "被害の規模を正確に把握するには時間がかかる。",
-          "en": "It will take time to accurately assess the scale of the damage.",
-          "furigana": "<ruby>被害<rp>(</rp><rt>ひがい</rt><rp>)</rp></ruby>の<ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby>を<ruby>正確<rp>(</rp><rt>せいかく</rt><rp>)</rp></ruby>に<ruby>把握<rp>(</rp><rt>はあく</rt><rp>)</rp></ruby>するには<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がかかる。"
+          "ja": "この会社は事業の規模を拡大している。",
+          "en": "This company is expanding the scale of its business.",
+          "furigana": "この会社は事業の<ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby>を拡大している。"
         },
         {
-          "ja": "事業の規模を拡大する前に、資金を確保した。",
-          "en": "We secured funding before expanding the scale of the business.",
-          "furigana": "<ruby>事業<rp>(</rp><rt>じぎょう</rt><rp>)</rp></ruby>の<ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby>を<ruby>拡大<rp>(</rp><rt>かくだい</rt><rp>)</rp></ruby>する<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に、<ruby>資金<rp>(</rp><rt>しきん</rt><rp>)</rp></ruby>を<ruby>確保<rp>(</rp><rt>かくほ</rt><rp>)</rp></ruby>した。"
+          "ja": "予想以上に規模の大きなイベントだった。",
+          "en": "The event was larger in scale than expected.",
+          "furigana": "予想以上に<ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby>の大きなイベントだった。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2619,14 +2619,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "利用規約をよく読んでから、サービスを利用してください。",
-          "en": "Please read the terms of use carefully before using the service.",
-          "furigana": "<ruby>共存<rp>(</rp><rt>きょうぞん</rt><rp>)</rp></ruby>：利用規約をよく読んでから、サービスを利用してください。"
+          "ja": "人間と自然が共存できる社会を目指している。",
+          "en": "We aim for a society where humans and nature can coexist.",
+          "furigana": "人間と自然が<ruby>共存<rp>(</rp><rt>きょうぞん</rt><rp>)</rp></ruby>できる社会を目指している。"
         },
         {
-          "ja": "契約の規約に違反した場合、利用を停止することがある。",
-          "en": "If you violate the terms of the contract, your access may be suspended.",
-          "furigana": "<ruby>共存<rp>(</rp><rt>きょうぞん</rt><rp>)</rp></ruby>：契約の規約に違反した場合、利用を停止することがある。"
+          "ja": "異なる文化が共存する地域で暮らしている。",
+          "en": "I live in an area where different cultures coexist.",
+          "furigana": "異なる文化が<ruby>共存<rp>(</rp><rt>きょうぞん</rt><rp>)</rp></ruby>する地域で暮らしている。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2662,14 +2662,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "申込書に必要事項を記入して提出した。",
-          "en": "I filled in the required information on the application form and submitted it.",
-          "furigana": "<ruby>申込<rp>(</rp><rt>もうしこみ</rt><rp>)</rp></ruby><ruby>書<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby>に<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby><ruby>事項<rp>(</rp><rt>じこう</rt><rp>)</rp></ruby>を<ruby>記入<rp>(</rp><rt>きにゅう</rt><rp>)</rp></ruby>して<ruby>提出<rp>(</rp><rt>ていしゅつ</rt><rp>)</rp></ruby>した。"
+          "ja": "申込書に名前と住所を記入してください。",
+          "en": "Please fill in your name and address on the application form.",
+          "furigana": "申込書に名前と住所を<ruby>記入<rp>(</rp><rt>きにゅう</rt><rp>)</rp></ruby>してください。"
         },
         {
-          "ja": "調査票には、正確な住所を記入してください。",
-          "en": "Please enter your accurate address on the survey form.",
-          "furigana": "<ruby>調査<rp>(</rp><rt>ちょうさ</rt><rp>)</rp></ruby><ruby>票<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby>には、<ruby>正確<rp>(</rp><rt>せいかく</rt><rp>)</rp></ruby>な<ruby>住所<rp>(</rp><rt>じゅうしょ</rt><rp>)</rp></ruby>を<ruby>記入<rp>(</rp><rt>きにゅう</rt><rp>)</rp></ruby>してください。"
+          "ja": "記入漏れがないか、提出前に確認した。",
+          "en": "I checked for any missing entries before submitting the form.",
+          "furigana": "<ruby>記入<rp>(</rp><rt>きにゅう</rt><rp>)</rp></ruby>漏れがないか、提出前に確認した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2704,14 +2704,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "両国は長年の戦争を終え、休戦に入った。",
-          "en": "The two countries ended their long war and entered a ceasefire.",
-          "furigana": "<ruby>協会<rp>(</rp><rt>きょうかい</rt><rp>)</rp></ruby>：両国は長年の戦争を終え、休戦に入った。"
+          "ja": "詳しい情報は業界の協会に問い合わせた。",
+          "en": "I contacted the industry association for detailed information.",
+          "furigana": "詳しい情報は業界の<ruby>協会<rp>(</rp><rt>きょうかい</rt><rp>)</rp></ruby>に問い合わせた。"
         },
         {
-          "ja": "休戦が成立した後も、緊張した状態は続いた。",
-          "en": "Even after the ceasefire was established, the tense situation continued.",
-          "furigana": "<ruby>協会<rp>(</rp><rt>きょうかい</rt><rp>)</rp></ruby>：休戦が成立した後も、緊張した状態は続いた。"
+          "ja": "彼は地域のスポーツ協会に所属している。",
+          "en": "He belongs to the local sports association.",
+          "furigana": "彼は地域のスポーツ<ruby>協会<rp>(</rp><rt>きょうかい</rt><rp>)</rp></ruby>に所属している。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2747,14 +2747,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "海外に居住する日本人向けのサービスを開始した。",
-          "en": "We launched a service for Japanese people living overseas.",
-          "furigana": "<ruby>海外<rp>(</rp><rt>かいがい</rt><rp>)</rp></ruby>に<ruby>居住<rp>(</rp><rt>きょじゅう</rt><rp>)</rp></ruby>する<ruby>日本人<rp>(</rp><rt>にっぽんじん</rt><rp>)</rp></ruby><ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>けのサービスを<ruby>開始<rp>(</rp><rt>かいし</rt><rp>)</rp></ruby>した。"
+          "ja": "現在、日本に居住している外国人を対象とした調査です。",
+          "en": "This survey is for foreign nationals currently residing in Japan.",
+          "furigana": "現在、日本に<ruby>居住<rp>(</rp><rt>きょじゅう</rt><rp>)</rp></ruby>している外国人を対象とした調査です。"
         },
         {
-          "ja": "この地域に居住する人の数は年々増えている。",
-          "en": "The number of people residing in this area is increasing every year.",
-          "furigana": "この<ruby>地域<rp>(</rp><rt>ちいき</rt><rp>)</rp></ruby>に<ruby>居住<rp>(</rp><rt>きょじゅう</rt><rp>)</rp></ruby>する<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>数<rp>(</rp><rt>かず</rt><rp>)</rp></ruby>は<ruby>年々<rp>(</rp><rt>ねんねん</rt><rp>)</rp></ruby><ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>えている。"
+          "ja": "この地域に十年以上居住している。",
+          "en": "I have lived in this area for more than ten years.",
+          "furigana": "この地域に十年以上<ruby>居住<rp>(</rp><rt>きょじゅう</rt><rp>)</rp></ruby>している。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2791,14 +2791,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "駅から会場までの距離は約二キロある。",
-          "en": "The distance from the station to the venue is about two kilometers.",
-          "furigana": "<ruby>協力<rp>(</rp><rt>きょうりょく</rt><rp>)</rp></ruby>：駅から会場までの距離は約二キロある。"
+          "ja": "皆さんの協力のおかげで、イベントは無事に終わった。",
+          "en": "Thanks to everyone's cooperation, the event ended successfully.",
+          "furigana": "皆さんの<ruby>協力<rp>(</rp><rt>きょうりょく</rt><rp>)</rp></ruby>のおかげで、イベントは無事に終わった。"
         },
         {
-          "ja": "二つの都市はかなり距離が離れている。",
-          "en": "The two cities are quite far apart.",
-          "furigana": "<ruby>協力<rp>(</rp><rt>きょうりょく</rt><rp>)</rp></ruby>：二つの都市はかなり距離が離れている。"
+          "ja": "問題を解決するため、二つの部署が協力している。",
+          "en": "The two departments are working together to solve the problem.",
+          "furigana": "問題を解決するため、二つの部署が<ruby>協力<rp>(</rp><rt>きょうりょく</rt><rp>)</rp></ruby>している。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2837,14 +2837,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "企業間の競争が激しくなり、商品の価格が下がった。",
-          "en": "Competition among companies intensified, and product prices fell.",
-          "furigana": "<ruby>企業<rp>(</rp><rt>きぎょう</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>の<ruby>競争<rp>(</rp><rt>きょうそう</rt><rp>)</rp></ruby>が<ruby>激<rp>(</rp><rt>はげ</rt><rp>)</rp></ruby>しくなり、<ruby>商品<rp>(</rp><rt>しょうひん</rt><rp>)</rp></ruby>の<ruby>価格<rp>(</rp><rt>かかく</rt><rp>)</rp></ruby>が<ruby>下<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>がった。"
+          "ja": "同じ業界の企業同士で激しい競争が続いている。",
+          "en": "Fierce competition continues among companies in the same industry.",
+          "furigana": "同じ業界の企業同士で激しい<ruby>競争<rp>(</rp><rt>きょうそう</rt><rp>)</rp></ruby>が続いている。"
         },
         {
-          "ja": "競争に勝つためには、品質を高める必要がある。",
-          "en": "To win the competition, it is necessary to improve quality.",
-          "furigana": "<ruby>競争<rp>(</rp><rt>きょうそう</rt><rp>)</rp></ruby>に<ruby>勝<rp>(</rp><rt>か</rt><rp>)</rp></ruby>つためには、<ruby>品質<rp>(</rp><rt>ひんしつ</rt><rp>)</rp></ruby>を<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>める<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>がある。"
+          "ja": "価格だけで競争するのは難しい。",
+          "en": "It is difficult to compete on price alone.",
+          "furigana": "価格だけで<ruby>競争<rp>(</rp><rt>きょうそう</rt><rp>)</rp></ruby>するのは難しい。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2885,14 +2885,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "地域の協会が、子ども向けのイベントを開催した。",
-          "en": "A local association held an event for children.",
-          "furigana": "<ruby>恐怖<rp>(</rp><rt>きょうふ</rt><rp>)</rp></ruby>：地域の協会が、子ども向けのイベントを開催した。"
+          "ja": "突然の大きな音に恐怖を感じた。",
+          "en": "I felt fear at the sudden loud noise.",
+          "furigana": "突然の大きな音に<ruby>恐怖<rp>(</rp><rt>きょうふ</rt><rp>)</rp></ruby>を感じた。"
         },
         {
-          "ja": "この協会には、全国から専門家が参加している。",
-          "en": "Experts from across the country participate in this association.",
-          "furigana": "<ruby>恐怖<rp>(</rp><rt>きょうふ</rt><rp>)</rp></ruby>：この協会には、全国から専門家が参加している。"
+          "ja": "彼は失敗への恐怖を乗り越えて挑戦した。",
+          "en": "He overcame his fear of failure and took on the challenge.",
+          "furigana": "彼は失敗への<ruby>恐怖<rp>(</rp><rt>きょうふ</rt><rp>)</rp></ruby>を乗り越えて挑戦した。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2933,14 +2933,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "大切な部分は、太字で強調されている。",
-          "en": "The important parts are emphasized in bold type.",
-          "furigana": "<ruby>教育<rp>(</rp><rt>きょういく</rt><rp>)</rp></ruby>：大切な部分は、太字で強調されている。"
+          "ja": "子どもの教育には家庭と学校の協力が必要だ。",
+          "en": "Children's education requires cooperation between families and schools.",
+          "furigana": "子どもの<ruby>教育<rp>(</rp><rt>きょういく</rt><rp>)</rp></ruby>には家庭と学校の協力が必要だ。"
         },
         {
-          "ja": "彼は安全の重要性を何度も強調した。",
-          "en": "He emphasized the importance of safety repeatedly.",
-          "furigana": "<ruby>教育<rp>(</rp><rt>きょういく</rt><rp>)</rp></ruby>：彼は安全の重要性を何度も強調した。"
+          "ja": "社員教育のために定期的な研修を行っている。",
+          "en": "Regular training is provided for employee education.",
+          "furigana": "社員<ruby>教育<rp>(</rp><rt>きょういく</rt><rp>)</rp></ruby>のために定期的な研修を行っている。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -2972,14 +2972,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "転職サイトでは、希望する業種を選んで求人を検索できる。",
-          "en": "On job-search sites, you can select your preferred industry and search for openings.",
-          "furigana": "転職サイトでは、希望する<ruby>業種<rp>(</rp><rt>ぎょうしゅ</rt><rp>)</rp></ruby>を選んで求人を検索できる。"
+          "ja": "同じIT業界でも業種によって仕事内容は異なる。",
+          "en": "Even within the IT industry, the work differs by type of business.",
+          "furigana": "同じIT業界でも<ruby>業種<rp>(</rp><rt>ぎょうしゅ</rt><rp>)</rp></ruby>によって仕事内容は異なる。"
         },
         {
-          "ja": "同じIT業界でも、業種によって仕事内容は大きく異なる。",
-          "en": "Even within the IT sector, the work differs greatly depending on the type of industry.",
-          "furigana": "同じIT業界でも、<ruby>業種<rp>(</rp><rt>ぎょうしゅ</rt><rp>)</rp></ruby>によって仕事内容は大きく異なる。"
+          "ja": "申込書で自分の会社の業種を選択してください。",
+          "en": "Please select your company's type of business on the application form.",
+          "furigana": "申込書で自分の会社の<ruby>業種<rp>(</rp><rt>ぎょうしゅ</rt><rp>)</rp></ruby>を選択してください。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -3011,14 +3011,14 @@
       "dictionaryVerified": true,
       "examples": [
         {
-          "ja": "転職サイトでは、希望する業種を選んで求人を検索できる。",
-          "en": "On job-search sites, you can select your preferred industry and search for openings.",
-          "furigana": "転職サイトでは、希望する<ruby>業種<rp>(</rp><rt>ぎょうしゅ</rt><rp>)</rp></ruby>を選んで求人を検索できる。"
+          "ja": "同じIT業界でも業種によって仕事内容は異なる。",
+          "en": "Even within the IT industry, the work differs by type of business.",
+          "furigana": "同じIT業界でも<ruby>業種<rp>(</rp><rt>ぎょうしゅ</rt><rp>)</rp></ruby>によって仕事内容は異なる。"
         },
         {
-          "ja": "同じIT業界でも、業種によって仕事内容は大きく異なる。",
-          "en": "Even within the IT sector, the work differs greatly depending on the type of industry.",
-          "furigana": "同じIT業界でも、<ruby>業種<rp>(</rp><rt>ぎょうしゅ</rt><rp>)</rp></ruby>によって仕事内容は大きく異なる。"
+          "ja": "申込書で自分の会社の業種を選択してください。",
+          "en": "Please select your company's type of business on the application form.",
+          "furigana": "申込書で自分の会社の<ruby>業種<rp>(</rp><rt>ぎょうしゅ</rt><rp>)</rp></ruby>を選択してください。"
         }
       ],
       "exampleStatus": "reviewed",
@@ -3056,9 +3056,9 @@
           "furigana": "<ruby>近年<rp>(</rp><rt>きんねん</rt><rp>)</rp></ruby>、オンライン授業を導入する学校が増えている。"
         },
         {
-          "ja": "近年は、現金を使わずに支払う人が多くなった。",
-          "en": "In recent years, more people have started paying without using cash.",
-          "furigana": "<ruby>近年<rp>(</rp><rt>きんねん</rt><rp>)</rp></ruby>は、現金を使わずに支払う人が多くなった。"
+          "ja": "この地域では近年、外国人観光客が増加している。",
+          "en": "In recent years, the number of foreign tourists in this area has increased.",
+          "furigana": "この地域では<ruby>近年<rp>(</rp><rt>きんねん</rt><rp>)</rp></ruby>、外国人観光客が増加している。"
         }
       ],
       "exampleStatus": "reviewed",
