@@ -22,6 +22,7 @@ data/*-debug.png
 # App builds, installed packages, local configuration, and temporary work
 .next/
 node_modules/
+tsconfig.tsbuildinfo
 tmp/
 .env
 .env.*
@@ -31,3 +32,4 @@ tmp/
 # OCR scans, intermediate exports, and dictionary sources are local-only.
 /data/*
 !/data/vocab-final-study.json
+!/data/grammar-study.json
